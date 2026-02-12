@@ -148,5 +148,5 @@ Machine Learning Engineer | Applied AI | Production ML Systems
 ---
 
 
-## 🏗️ System Architecture
+
 
